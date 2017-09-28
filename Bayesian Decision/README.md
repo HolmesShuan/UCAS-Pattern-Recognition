@@ -5,6 +5,7 @@ Using LDF and QDF to implement Multi-classification.
 ## Recommended Reference
 http://scikit-learn.org/stable/modules/lda_qda.htm
 ## Performance
+We evaluate QDF and LDF on Cifar-10. Similarly you may re-implement our code on MNIST.  
 Class 1 (`6K` Training images): cat<br>
 Class 2 (`6K` Training images): horse<br>
 #### QDF : <br>
@@ -14,10 +15,11 @@ accuracy@Cls2 = `73.0%`<br>
 average acc = `83.1%`<br>
 #### LDF : <br>
 #### Details : 
-We first reduce RGB channels to luminance channel((in YCrCb color space), which has been proved that human eyes are most sensitive to that dimension. E.g.
+We first reduce RGB channels to luminance channel((in YCrCb color space), which has been proved that human eyes are most sensitive to that dimension. The same as MNIST, luminance was shown in the gray image. E.g.
 
 ![Ycbcr Y channel demo](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/blob/master/Bayesian%20Decision/ConvertImageFromYCbCrToRGBExample_01%20(1).png)
 
 Then, the feature dimensions of each classes have been reduced from **3072** to **1024**.  
 Moreover, we implement PCA on feature matrix (**12000x1024**) to further reduce the correlation of different features.  
-This operation can also solve the problem of singular covariance matrix.
+This operation can also solve the problem of singular covariance matrix.  
+Finally, we perform QDF and LDF on pre-processed features.
