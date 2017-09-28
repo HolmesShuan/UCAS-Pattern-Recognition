@@ -99,6 +99,6 @@ Acc_2 = length(Results) / size(test_class_2_matrix,1);
 fprintf('Linear Class 2 ACC : %f.\n', Acc_2);
 fprintf('Linear Mean ACC : %f.\n', (Acc_2+Acc_1)/2);
 end
-
+ 
 
 
