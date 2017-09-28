@@ -1,0 +1,60 @@
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.767000.
+Quadrastic Class 2 ACC : 0.458000.
+Quadrastic Mean ACC : 0.612500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.767000.
+Quadrastic Class 2 ACC : 0.488000.
+Quadrastic Mean ACC : 0.627500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.819000.
+Quadrastic Class 2 ACC : 0.538000.
+Quadrastic Mean ACC : 0.678500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.805000.
+Quadrastic Class 2 ACC : 0.550000.
+Quadrastic Mean ACC : 0.677500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.818000.
+Quadrastic Class 2 ACC : 0.586000.
+Quadrastic Mean ACC : 0.702000.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.835000.
+Quadrastic Class 2 ACC : 0.608000.
+Quadrastic Mean ACC : 0.721500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.855000.
+Quadrastic Class 2 ACC : 0.625000.
+Quadrastic Mean ACC : 0.740000.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.865000.
+Quadrastic Class 2 ACC : 0.644000.
+Quadrastic Mean ACC : 0.754500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.864000.
+Quadrastic Class 2 ACC : 0.654000.
+Quadrastic Mean ACC : 0.759000.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.883000.
+Quadrastic Class 2 ACC : 0.681000.
+Quadrastic Mean ACC : 0.782000.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.897000.
+Quadrastic Class 2 ACC : 0.690000.
+Quadrastic Mean ACC : 0.793500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.910000.
+Quadrastic Class 2 ACC : 0.703000.
+Quadrastic Mean ACC : 0.806500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.920000.
+Quadrastic Class 2 ACC : 0.717000.
+Quadrastic Mean ACC : 0.818500.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 0.920000.
+Quadrastic Class 2 ACC : 0.730000.
+Quadrastic Mean ACC : 0.825000.
+>> Bayesian_decision
+Quadrastic Class 1 ACC : 1.000000.
+Quadrastic Class 2 ACC : 0.000000.
+Quadrastic Mean ACC : 0.500000.
