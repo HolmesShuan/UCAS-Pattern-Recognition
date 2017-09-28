@@ -26,3 +26,6 @@ Then, the feature dimensions of each classes have been reduced from **3072** to 
 Moreover, we implement PCA on feature matrix (**12000x1024**) to further reduce the correlation of different features.  
 This operation can also solve the problem of singular covariance matrix.  
 Finally, we perform QDF and LDF on pre-processed features.
+#### Principal Components Selection
+
+
