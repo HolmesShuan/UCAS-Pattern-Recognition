@@ -16,3 +16,8 @@ average acc = `83.1%`<br>
 #### Details : 
 We first reduce RGB channels to luminance channel((in YCrCb color space), which has been proved that human eyes are most sensitive to that dimension. E.g.
 
+![Ycbcr Y channel demo](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/blob/master/Bayesian%20Decision/ConvertImageFromYCbCrToRGBExample_01%20(1).png)
+
+Then, the feature dimensions of each classes have been reduced from **3072** to **1024**.  
+Moreover, we implement PCA on feature matrix (**12000x1024**) to further reduce the correlation of different features.  
+This operation can also solve the problem of singular covariance matrix.
