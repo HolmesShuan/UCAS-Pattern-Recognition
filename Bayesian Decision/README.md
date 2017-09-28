@@ -14,6 +14,9 @@ accuracy@Cls1 = `93.1%`<br>
 accuracy@Cls2 = `73.0%`<br>
 average acc = `83.1%`<br>
 #### LDF : <br>
+accuracy@Cls1 = `58.4%`<br>
+accuracy@Cls2 = `66.1%`<br>
+average acc = `62.3%`<br>
 #### Details : 
 We first reduce RGB channels to luminance channel((in YCrCb color space), which has been proved that human eyes are most sensitive to that dimension. The same as MNIST, luminance was shown in the gray image. E.g.
 
