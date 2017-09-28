@@ -27,5 +27,7 @@ Moreover, we implement PCA on feature matrix (**12000x1024**) to further reduce 
 This operation can also solve the problem of singular covariance matrix.  
 Finally, we perform QDF and LDF on pre-processed features.
 #### Principal Components Selection
+![LDF{:height="50%" width="50%"}](./figure_1.png)
+![QDF{:height="50%" width="50%"}](./figure_2.png)
 
 
