@@ -24,11 +24,13 @@ We first reduce RGB channels to luminance channel((in YCrCb color space), which 
 
 Then, the feature dimensions of each classes have been reduced from **3072** to **1024**.  
 Moreover, we implement PCA on feature matrix (**12000x1024**) to further reduce the correlation of different features.  
-This operation can also solve the problem of singular covariance matrix([Shrinkage Method](http://www.ledoit.net/honey.pdf) has better solution).   
+This operation can also solve the problem of singular covariance matrix.   
 Finally, we perform QDF and LDF on pre-processed features.
 #### Principal Components Selection
 ![LDF{:height="50%" width="50%"}](./figure1.png)
 ![QDF{:height="50%" width="50%"}](./figure2.png)
 
+As you may notice, QDF becomes pathological when feature dimension is over 290, which implies that covariance matrix is nearly singular.
+[Shrinkage Method](http://www.ledoit.net/honey.pdf) has better solved this problem. In short, add disturbance terms to the singular matrix.
 
 
