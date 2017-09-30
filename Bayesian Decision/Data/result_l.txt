@@ -1,0 +1,192 @@
+VAL Linear Class 1 ACC : 0.498000.
+VAL Linear Class 2 ACC : 0.502000.
+VAL Linear Mean ACC : 0.500000.
+TEST Linear Class 1 ACC : 0.528000.
+TEST Linear Class 2 ACC : 0.523000.
+TEST Linear Mean ACC : 0.525500.
+VAL Linear Class 1 ACC : 0.498000.
+VAL Linear Class 2 ACC : 0.504000.
+VAL Linear Mean ACC : 0.501000.
+TEST Linear Class 1 ACC : 0.522000.
+TEST Linear Class 2 ACC : 0.532000.
+TEST Linear Mean ACC : 0.527000.
+VAL Linear Class 1 ACC : 0.460000.
+VAL Linear Class 2 ACC : 0.514000.
+VAL Linear Mean ACC : 0.487000.
+TEST Linear Class 1 ACC : 0.502000.
+TEST Linear Class 2 ACC : 0.530000.
+TEST Linear Mean ACC : 0.516000.
+VAL Linear Class 1 ACC : 0.494000.
+VAL Linear Class 2 ACC : 0.498000.
+VAL Linear Mean ACC : 0.496000.
+TEST Linear Class 1 ACC : 0.522000.
+TEST Linear Class 2 ACC : 0.521000.
+TEST Linear Mean ACC : 0.521500.
+VAL Linear Class 1 ACC : 0.514000.
+VAL Linear Class 2 ACC : 0.474000.
+VAL Linear Mean ACC : 0.494000.
+TEST Linear Class 1 ACC : 0.526000.
+TEST Linear Class 2 ACC : 0.505000.
+TEST Linear Mean ACC : 0.515500.
+VAL Linear Class 1 ACC : 0.466000.
+VAL Linear Class 2 ACC : 0.474000.
+VAL Linear Mean ACC : 0.470000.
+TEST Linear Class 1 ACC : 0.513000.
+TEST Linear Class 2 ACC : 0.518000.
+TEST Linear Mean ACC : 0.515500.
+VAL Linear Class 1 ACC : 0.484000.
+VAL Linear Class 2 ACC : 0.498000.
+VAL Linear Mean ACC : 0.491000.
+TEST Linear Class 1 ACC : 0.500000.
+TEST Linear Class 2 ACC : 0.526000.
+TEST Linear Mean ACC : 0.513000.
+VAL Linear Class 1 ACC : 0.480000.
+VAL Linear Class 2 ACC : 0.500000.
+VAL Linear Mean ACC : 0.490000.
+TEST Linear Class 1 ACC : 0.504000.
+TEST Linear Class 2 ACC : 0.525000.
+TEST Linear Mean ACC : 0.514500.
+VAL Linear Class 1 ACC : 0.466000.
+VAL Linear Class 2 ACC : 0.510000.
+VAL Linear Mean ACC : 0.488000.
+TEST Linear Class 1 ACC : 0.502000.
+TEST Linear Class 2 ACC : 0.527000.
+TEST Linear Mean ACC : 0.514500.
+VAL Linear Class 1 ACC : 0.452000.
+VAL Linear Class 2 ACC : 0.500000.
+VAL Linear Mean ACC : 0.476000.
+TEST Linear Class 1 ACC : 0.496000.
+TEST Linear Class 2 ACC : 0.519000.
+TEST Linear Mean ACC : 0.507500.
+VAL Linear Class 1 ACC : 0.482000.
+VAL Linear Class 2 ACC : 0.504000.
+VAL Linear Mean ACC : 0.493000.
+TEST Linear Class 1 ACC : 0.500000.
+TEST Linear Class 2 ACC : 0.511000.
+TEST Linear Mean ACC : 0.505500.
+VAL Linear Class 1 ACC : 0.470000.
+VAL Linear Class 2 ACC : 0.498000.
+VAL Linear Mean ACC : 0.484000.
+TEST Linear Class 1 ACC : 0.496000.
+TEST Linear Class 2 ACC : 0.527000.
+TEST Linear Mean ACC : 0.511500.
+VAL Linear Class 1 ACC : 0.490000.
+VAL Linear Class 2 ACC : 0.524000.
+VAL Linear Mean ACC : 0.507000.
+TEST Linear Class 1 ACC : 0.514000.
+TEST Linear Class 2 ACC : 0.527000.
+TEST Linear Mean ACC : 0.520500.
+VAL Linear Class 1 ACC : 0.496000.
+VAL Linear Class 2 ACC : 0.524000.
+VAL Linear Mean ACC : 0.510000.
+TEST Linear Class 1 ACC : 0.505000.
+TEST Linear Class 2 ACC : 0.519000.
+TEST Linear Mean ACC : 0.512000.
+VAL Linear Class 1 ACC : 0.506000.
+VAL Linear Class 2 ACC : 0.526000.
+VAL Linear Mean ACC : 0.516000.
+TEST Linear Class 1 ACC : 0.509000.
+TEST Linear Class 2 ACC : 0.526000.
+TEST Linear Mean ACC : 0.517500.
+VAL Linear Class 1 ACC : 0.500000.
+VAL Linear Class 2 ACC : 0.530000.
+VAL Linear Mean ACC : 0.515000.
+TEST Linear Class 1 ACC : 0.507000.
+TEST Linear Class 2 ACC : 0.505000.
+TEST Linear Mean ACC : 0.506000.
+VAL Linear Class 1 ACC : 0.492000.
+VAL Linear Class 2 ACC : 0.538000.
+VAL Linear Mean ACC : 0.515000.
+TEST Linear Class 1 ACC : 0.523000.
+TEST Linear Class 2 ACC : 0.503000.
+TEST Linear Mean ACC : 0.513000.
+VAL Linear Class 1 ACC : 0.512000.
+VAL Linear Class 2 ACC : 0.518000.
+VAL Linear Mean ACC : 0.515000.
+TEST Linear Class 1 ACC : 0.545000.
+TEST Linear Class 2 ACC : 0.480000.
+TEST Linear Mean ACC : 0.512500.
+VAL Linear Class 1 ACC : 0.498000.
+VAL Linear Class 2 ACC : 0.530000.
+VAL Linear Mean ACC : 0.514000.
+TEST Linear Class 1 ACC : 0.524000.
+TEST Linear Class 2 ACC : 0.486000.
+TEST Linear Mean ACC : 0.505000.
+VAL Linear Class 1 ACC : 0.510000.
+VAL Linear Class 2 ACC : 0.506000.
+VAL Linear Mean ACC : 0.508000.
+TEST Linear Class 1 ACC : 0.540000.
+TEST Linear Class 2 ACC : 0.488000.
+TEST Linear Mean ACC : 0.514000.
+VAL Linear Class 1 ACC : 0.504000.
+VAL Linear Class 2 ACC : 0.502000.
+VAL Linear Mean ACC : 0.503000.
+TEST Linear Class 1 ACC : 0.553000.
+TEST Linear Class 2 ACC : 0.474000.
+TEST Linear Mean ACC : 0.513500.
+VAL Linear Class 1 ACC : 0.490000.
+VAL Linear Class 2 ACC : 0.506000.
+VAL Linear Mean ACC : 0.498000.
+TEST Linear Class 1 ACC : 0.557000.
+TEST Linear Class 2 ACC : 0.478000.
+TEST Linear Mean ACC : 0.517500.
+VAL Linear Class 1 ACC : 0.488000.
+VAL Linear Class 2 ACC : 0.518000.
+VAL Linear Mean ACC : 0.503000.
+TEST Linear Class 1 ACC : 0.558000.
+TEST Linear Class 2 ACC : 0.475000.
+TEST Linear Mean ACC : 0.516500.
+VAL Linear Class 1 ACC : 0.484000.
+VAL Linear Class 2 ACC : 0.522000.
+VAL Linear Mean ACC : 0.503000.
+TEST Linear Class 1 ACC : 0.543000.
+TEST Linear Class 2 ACC : 0.476000.
+TEST Linear Mean ACC : 0.509500.
+VAL Linear Class 1 ACC : 0.464000.
+VAL Linear Class 2 ACC : 0.528000.
+VAL Linear Mean ACC : 0.496000.
+TEST Linear Class 1 ACC : 0.510000.
+TEST Linear Class 2 ACC : 0.477000.
+TEST Linear Mean ACC : 0.493500.
+VAL Linear Class 1 ACC : 0.458000.
+VAL Linear Class 2 ACC : 0.526000.
+VAL Linear Mean ACC : 0.492000.
+TEST Linear Class 1 ACC : 0.512000.
+TEST Linear Class 2 ACC : 0.488000.
+TEST Linear Mean ACC : 0.500000.
+VAL Linear Class 1 ACC : 0.452000.
+VAL Linear Class 2 ACC : 0.546000.
+VAL Linear Mean ACC : 0.499000.
+TEST Linear Class 1 ACC : 0.529000.
+TEST Linear Class 2 ACC : 0.494000.
+TEST Linear Mean ACC : 0.511500.
+VAL Linear Class 1 ACC : 0.454000.
+VAL Linear Class 2 ACC : 0.540000.
+VAL Linear Mean ACC : 0.497000.
+TEST Linear Class 1 ACC : 0.514000.
+TEST Linear Class 2 ACC : 0.505000.
+TEST Linear Mean ACC : 0.509500.
+VAL Linear Class 1 ACC : 0.446000.
+VAL Linear Class 2 ACC : 0.548000.
+VAL Linear Mean ACC : 0.497000.
+TEST Linear Class 1 ACC : 0.522000.
+TEST Linear Class 2 ACC : 0.509000.
+TEST Linear Mean ACC : 0.515500.
+VAL Linear Class 1 ACC : 0.444000.
+VAL Linear Class 2 ACC : 0.584000.
+VAL Linear Mean ACC : 0.514000.
+TEST Linear Class 1 ACC : 0.494000.
+TEST Linear Class 2 ACC : 0.539000.
+TEST Linear Mean ACC : 0.516500.
+VAL Linear Class 1 ACC : 0.448000.
+VAL Linear Class 2 ACC : 0.602000.
+VAL Linear Mean ACC : 0.525000.
+TEST Linear Class 1 ACC : 0.511000.
+TEST Linear Class 2 ACC : 0.550000.
+TEST Linear Mean ACC : 0.530500.
+VAL Linear Class 1 ACC : 0.572000.
+VAL Linear Class 2 ACC : 0.662000.
+VAL Linear Mean ACC : 0.617000.
+TEST Linear Class 1 ACC : 0.566000.
+TEST Linear Class 2 ACC : 0.643000.
+TEST Linear Mean ACC : 0.604500.
