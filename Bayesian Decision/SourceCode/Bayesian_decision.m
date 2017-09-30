@@ -6,10 +6,10 @@
 % clc;
 clear;
 %%
-load('class_1.mat');
-load('class_2.mat');
-load('test_class_1.mat');
-load('test_class_2.mat');
+load('../Data/class_1.mat');
+load('../Data/class_2.mat');
+load('../Data/test_class_1.mat');
+load('../Data/test_class_2.mat');
 pca_dimension = 1000;
 M = size(class_1_matrix,1);
 N = size(class_1_matrix,2);
