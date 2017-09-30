@@ -171,4 +171,3 @@ fprintf('TEST Linear Class 2 ACC : %f.\n', Acc_2);
 fprintf('TEST Linear Mean ACC : %f.\n', (Acc_2+Acc_1)/2);
 end % cases option
 end % PCA DIM for 
-
