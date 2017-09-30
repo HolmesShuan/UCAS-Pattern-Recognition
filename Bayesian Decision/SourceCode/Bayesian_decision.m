@@ -138,7 +138,7 @@ Acc_2 = length(Results) / size(test_class_2_matrix,1);
 fprintf('TEST Quadrastic Class 2 ACC : %f.\n', Acc_2);
 fprintf('TEST Quadrastic Mean ACC : %f.\n', (Acc_2+Acc_1)/2);
 %% TEST SET Linear Decision
-else % decision option
+else % cases option
 X = test_class_1_matrix(:,:);
 m = size(X,1);
 g_1 = zeros(m);
@@ -169,6 +169,6 @@ Results = find(g_1<g_2);
 Acc_2 = length(Results) / size(test_class_2_matrix,1);
 fprintf('TEST Linear Class 2 ACC : %f.\n', Acc_2);
 fprintf('TEST Linear Mean ACC : %f.\n', (Acc_2+Acc_1)/2);
-end % decision option
+end % cases option
 end % PCA DIM for 
 
