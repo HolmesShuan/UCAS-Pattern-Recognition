@@ -1,0 +1,192 @@
+VAL Quadrastic Class 1 ACC : 0.662000.
+VAL Quadrastic Class 2 ACC : 0.500000.
+VAL Quadrastic Mean ACC : 0.581000.
+TEST Quadrastic Class 1 ACC : 0.664000.
+TEST Quadrastic Class 2 ACC : 0.548000.
+TEST Quadrastic Mean ACC : 0.606000.
+VAL Quadrastic Class 1 ACC : 0.638000.
+VAL Quadrastic Class 2 ACC : 0.582000.
+VAL Quadrastic Mean ACC : 0.610000.
+TEST Quadrastic Class 1 ACC : 0.676000.
+TEST Quadrastic Class 2 ACC : 0.605000.
+TEST Quadrastic Mean ACC : 0.640500.
+VAL Quadrastic Class 1 ACC : 0.632000.
+VAL Quadrastic Class 2 ACC : 0.616000.
+VAL Quadrastic Mean ACC : 0.624000.
+TEST Quadrastic Class 1 ACC : 0.627000.
+TEST Quadrastic Class 2 ACC : 0.615000.
+TEST Quadrastic Mean ACC : 0.621000.
+VAL Quadrastic Class 1 ACC : 0.640000.
+VAL Quadrastic Class 2 ACC : 0.636000.
+VAL Quadrastic Mean ACC : 0.638000.
+TEST Quadrastic Class 1 ACC : 0.625000.
+TEST Quadrastic Class 2 ACC : 0.642000.
+TEST Quadrastic Mean ACC : 0.633500.
+VAL Quadrastic Class 1 ACC : 0.642000.
+VAL Quadrastic Class 2 ACC : 0.664000.
+VAL Quadrastic Mean ACC : 0.653000.
+TEST Quadrastic Class 1 ACC : 0.623000.
+TEST Quadrastic Class 2 ACC : 0.645000.
+TEST Quadrastic Mean ACC : 0.634000.
+VAL Quadrastic Class 1 ACC : 0.620000.
+VAL Quadrastic Class 2 ACC : 0.690000.
+VAL Quadrastic Mean ACC : 0.655000.
+TEST Quadrastic Class 1 ACC : 0.606000.
+TEST Quadrastic Class 2 ACC : 0.678000.
+TEST Quadrastic Mean ACC : 0.642000.
+VAL Quadrastic Class 1 ACC : 0.640000.
+VAL Quadrastic Class 2 ACC : 0.690000.
+VAL Quadrastic Mean ACC : 0.665000.
+TEST Quadrastic Class 1 ACC : 0.603000.
+TEST Quadrastic Class 2 ACC : 0.689000.
+TEST Quadrastic Mean ACC : 0.646000.
+VAL Quadrastic Class 1 ACC : 0.612000.
+VAL Quadrastic Class 2 ACC : 0.698000.
+VAL Quadrastic Mean ACC : 0.655000.
+TEST Quadrastic Class 1 ACC : 0.604000.
+TEST Quadrastic Class 2 ACC : 0.700000.
+TEST Quadrastic Mean ACC : 0.652000.
+VAL Quadrastic Class 1 ACC : 0.628000.
+VAL Quadrastic Class 2 ACC : 0.722000.
+VAL Quadrastic Mean ACC : 0.675000.
+TEST Quadrastic Class 1 ACC : 0.604000.
+TEST Quadrastic Class 2 ACC : 0.717000.
+TEST Quadrastic Mean ACC : 0.660500.
+VAL Quadrastic Class 1 ACC : 0.620000.
+VAL Quadrastic Class 2 ACC : 0.730000.
+VAL Quadrastic Mean ACC : 0.675000.
+TEST Quadrastic Class 1 ACC : 0.585000.
+TEST Quadrastic Class 2 ACC : 0.742000.
+TEST Quadrastic Mean ACC : 0.663500.
+VAL Quadrastic Class 1 ACC : 0.604000.
+VAL Quadrastic Class 2 ACC : 0.744000.
+VAL Quadrastic Mean ACC : 0.674000.
+TEST Quadrastic Class 1 ACC : 0.590000.
+TEST Quadrastic Class 2 ACC : 0.752000.
+TEST Quadrastic Mean ACC : 0.671000.
+VAL Quadrastic Class 1 ACC : 0.606000.
+VAL Quadrastic Class 2 ACC : 0.738000.
+VAL Quadrastic Mean ACC : 0.672000.
+TEST Quadrastic Class 1 ACC : 0.598000.
+TEST Quadrastic Class 2 ACC : 0.752000.
+TEST Quadrastic Mean ACC : 0.675000.
+VAL Quadrastic Class 1 ACC : 0.614000.
+VAL Quadrastic Class 2 ACC : 0.750000.
+VAL Quadrastic Mean ACC : 0.682000.
+TEST Quadrastic Class 1 ACC : 0.592000.
+TEST Quadrastic Class 2 ACC : 0.765000.
+TEST Quadrastic Mean ACC : 0.678500.
+VAL Quadrastic Class 1 ACC : 0.614000.
+VAL Quadrastic Class 2 ACC : 0.766000.
+VAL Quadrastic Mean ACC : 0.690000.
+TEST Quadrastic Class 1 ACC : 0.594000.
+TEST Quadrastic Class 2 ACC : 0.771000.
+TEST Quadrastic Mean ACC : 0.682500.
+VAL Quadrastic Class 1 ACC : 0.628000.
+VAL Quadrastic Class 2 ACC : 0.764000.
+VAL Quadrastic Mean ACC : 0.696000.
+TEST Quadrastic Class 1 ACC : 0.592000.
+TEST Quadrastic Class 2 ACC : 0.772000.
+TEST Quadrastic Mean ACC : 0.682000.
+VAL Quadrastic Class 1 ACC : 0.626000.
+VAL Quadrastic Class 2 ACC : 0.762000.
+VAL Quadrastic Mean ACC : 0.694000.
+TEST Quadrastic Class 1 ACC : 0.587000.
+TEST Quadrastic Class 2 ACC : 0.773000.
+TEST Quadrastic Mean ACC : 0.680000.
+VAL Quadrastic Class 1 ACC : 0.614000.
+VAL Quadrastic Class 2 ACC : 0.774000.
+VAL Quadrastic Mean ACC : 0.694000.
+TEST Quadrastic Class 1 ACC : 0.595000.
+TEST Quadrastic Class 2 ACC : 0.769000.
+TEST Quadrastic Mean ACC : 0.682000.
+VAL Quadrastic Class 1 ACC : 0.616000.
+VAL Quadrastic Class 2 ACC : 0.790000.
+VAL Quadrastic Mean ACC : 0.703000.
+TEST Quadrastic Class 1 ACC : 0.589000.
+TEST Quadrastic Class 2 ACC : 0.780000.
+TEST Quadrastic Mean ACC : 0.684500.
+VAL Quadrastic Class 1 ACC : 0.620000.
+VAL Quadrastic Class 2 ACC : 0.796000.
+VAL Quadrastic Mean ACC : 0.708000.
+TEST Quadrastic Class 1 ACC : 0.589000.
+TEST Quadrastic Class 2 ACC : 0.783000.
+TEST Quadrastic Mean ACC : 0.686000.
+VAL Quadrastic Class 1 ACC : 0.636000.
+VAL Quadrastic Class 2 ACC : 0.792000.
+VAL Quadrastic Mean ACC : 0.714000.
+TEST Quadrastic Class 1 ACC : 0.593000.
+TEST Quadrastic Class 2 ACC : 0.784000.
+TEST Quadrastic Mean ACC : 0.688500.
+VAL Quadrastic Class 1 ACC : 0.644000.
+VAL Quadrastic Class 2 ACC : 0.796000.
+VAL Quadrastic Mean ACC : 0.720000.
+TEST Quadrastic Class 1 ACC : 0.591000.
+TEST Quadrastic Class 2 ACC : 0.790000.
+TEST Quadrastic Mean ACC : 0.690500.
+VAL Quadrastic Class 1 ACC : 0.640000.
+VAL Quadrastic Class 2 ACC : 0.804000.
+VAL Quadrastic Mean ACC : 0.722000.
+TEST Quadrastic Class 1 ACC : 0.592000.
+TEST Quadrastic Class 2 ACC : 0.795000.
+TEST Quadrastic Mean ACC : 0.693500.
+VAL Quadrastic Class 1 ACC : 0.644000.
+VAL Quadrastic Class 2 ACC : 0.808000.
+VAL Quadrastic Mean ACC : 0.726000.
+TEST Quadrastic Class 1 ACC : 0.589000.
+TEST Quadrastic Class 2 ACC : 0.800000.
+TEST Quadrastic Mean ACC : 0.694500.
+VAL Quadrastic Class 1 ACC : 0.640000.
+VAL Quadrastic Class 2 ACC : 0.822000.
+VAL Quadrastic Mean ACC : 0.731000.
+TEST Quadrastic Class 1 ACC : 0.602000.
+TEST Quadrastic Class 2 ACC : 0.804000.
+TEST Quadrastic Mean ACC : 0.703000.
+VAL Quadrastic Class 1 ACC : 0.648000.
+VAL Quadrastic Class 2 ACC : 0.822000.
+VAL Quadrastic Mean ACC : 0.735000.
+TEST Quadrastic Class 1 ACC : 0.598000.
+TEST Quadrastic Class 2 ACC : 0.815000.
+TEST Quadrastic Mean ACC : 0.706500.
+VAL Quadrastic Class 1 ACC : 0.648000.
+VAL Quadrastic Class 2 ACC : 0.822000.
+VAL Quadrastic Mean ACC : 0.735000.
+TEST Quadrastic Class 1 ACC : 0.598000.
+TEST Quadrastic Class 2 ACC : 0.812000.
+TEST Quadrastic Mean ACC : 0.705000.
+VAL Quadrastic Class 1 ACC : 0.656000.
+VAL Quadrastic Class 2 ACC : 0.826000.
+VAL Quadrastic Mean ACC : 0.741000.
+TEST Quadrastic Class 1 ACC : 0.602000.
+TEST Quadrastic Class 2 ACC : 0.819000.
+TEST Quadrastic Mean ACC : 0.710500.
+VAL Quadrastic Class 1 ACC : 0.662000.
+VAL Quadrastic Class 2 ACC : 0.824000.
+VAL Quadrastic Mean ACC : 0.743000.
+TEST Quadrastic Class 1 ACC : 0.597000.
+TEST Quadrastic Class 2 ACC : 0.824000.
+TEST Quadrastic Mean ACC : 0.710500.
+VAL Quadrastic Class 1 ACC : 0.664000.
+VAL Quadrastic Class 2 ACC : 0.826000.
+VAL Quadrastic Mean ACC : 0.745000.
+TEST Quadrastic Class 1 ACC : 0.604000.
+TEST Quadrastic Class 2 ACC : 0.832000.
+TEST Quadrastic Mean ACC : 0.718000.
+VAL Quadrastic Class 1 ACC : 0.666000.
+VAL Quadrastic Class 2 ACC : 0.826000.
+VAL Quadrastic Mean ACC : 0.746000.
+TEST Quadrastic Class 1 ACC : 0.607000.
+TEST Quadrastic Class 2 ACC : 0.836000.
+TEST Quadrastic Mean ACC : 0.721500.
+VAL Quadrastic Class 1 ACC : 0.682000.
+VAL Quadrastic Class 2 ACC : 0.824000.
+VAL Quadrastic Mean ACC : 0.753000.
+TEST Quadrastic Class 1 ACC : 0.617000.
+TEST Quadrastic Class 2 ACC : 0.839000.
+TEST Quadrastic Mean ACC : 0.728000.
+VAL Quadrastic Class 1 ACC : 0.730000.
+VAL Quadrastic Class 2 ACC : 0.814000.
+VAL Quadrastic Mean ACC : 0.772000.
+TEST Quadrastic Class 1 ACC : 0.682000.
+TEST Quadrastic Class 2 ACC : 0.815000.
+TEST Quadrastic Mean ACC : 0.748500.
