@@ -57,7 +57,7 @@ class_2_matrix = RGB2YCBCR(class_2_matrix, Width, Height);
 test_class_1_matrix = RGB2YCBCR(test_class_1_matrix, Width, Height);
 test_class_2_matrix = RGB2YCBCR(test_class_2_matrix, Width, Height);
 %%
-save('class_1.mat', 'class_1_matrix');
-save('class_2.mat', 'class_2_matrix');
-save('test_class_1.mat', 'test_class_1_matrix');
-save('test_class_2.mat', 'test_class_2_matrix');
+save('../Data/class_1.mat', 'class_1_matrix');
+save('../Data/class_2.mat', 'class_2_matrix');
+save('../Data/test_class_1.mat', 'test_class_1_matrix');
+save('../Data/test_class_2.mat', 'test_class_2_matrix');
