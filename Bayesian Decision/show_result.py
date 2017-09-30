@@ -86,7 +86,6 @@ for line in quadrastic_result:
 
 #print len(stride_linear)
 #print len(stride_quadrastic)
-
 #print stride_linear
 
 plt.figure(figsize=(8,5))
