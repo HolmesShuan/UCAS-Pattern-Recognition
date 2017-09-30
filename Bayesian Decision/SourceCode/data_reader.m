@@ -18,14 +18,14 @@ raw_data = {...
      [raw_data_path 'data_batch_5.mat'],...
      [raw_data_path 'test_batch.mat']
      };
-class_1_matrix = zeros(6000, 3072);
-class_2_matrix = zeros(6000, 3072);
+class_1_matrix = zeros(5000, 3072);
+class_2_matrix = zeros(5000, 3072);
 test_class_1_matrix = zeros(1000, 3072);
 test_class_2_matrix = zeros(1000, 3072);
 index_class_1 = 1;
 index_class_2 = 1;
 %%
-for i = 1:length(raw_data)
+for i = 1:length(raw_data)-1
     load(raw_data{i});
     if ismember(catagories(1), labels)
         index = find(labels == catagories(1));
