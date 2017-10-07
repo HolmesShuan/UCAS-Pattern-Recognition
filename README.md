@@ -10,4 +10,3 @@ Welcome to discuss, **do not** plagiarize.
 
 #### 说明
 中国科学院大学 模式识别秋季课程编程题实现<br>
-欢迎讨论 切勿抄袭
