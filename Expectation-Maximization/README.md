@@ -7,3 +7,15 @@ using [obversation vectors](https://github.com/HolmesShuan/UCAS-Pattern-Recognit
 <img src="./proof2.png" width="500" height="630" />
 
 ## Experiment Results
+<img src="./img/Original.bmp" width="400" height="300" />
+
+#### Observed feature distribution
+<img src="./img/iter30_1.bmp" width="400" height="300" />
+
+#### Estimated distribution (initialization : mu_1=[0 7]; mu_2=[7 0]; Sigma_1 = Sigma_2 = I)
+<img src="./img/iter30_2.bmp" width="400" height="300" />
+
+#### Estimated distribution (initialization : mu_1=[2 3]; mu_2=[5 1]; Sigma_1 = Sigma_2 = I)
+<img src="./img/iter30_3.bmp" width="400" height="300" />
+
+#### Estimated distribution (initialization : mu_1=[2 3]; mu_2=[5 1]; Sigma_1 = Sigma_2 = 3\*I)
