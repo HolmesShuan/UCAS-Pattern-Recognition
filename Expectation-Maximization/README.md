@@ -19,6 +19,7 @@ using [obversation vectors](https://github.com/HolmesShuan/UCAS-Pattern-Recognit
 <img src="./img/iter30_3.bmp" width="400" height="300" />
 
 #### Estimated distribution (initialization : mu_1=[2 3]; mu_2=[5 1]; Sigma_1 = Sigma_2 = 3\*I)
-#### Estimated Parameters :
+### Estimated Parameters :
 ##### Mu_1 = [0 7] Sigma_1 = [2.15 -0.125; -0.125 2.90]
 ##### Mu_2 = [7 0] Sigma_2 = [3.90  0.161;  0.161 1.06]
+##### alpha_1 = 0.4; alpha_2 = 0.6
