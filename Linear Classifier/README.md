@@ -11,3 +11,8 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 ## Data Distribution
 <img src="./w1_w2.bmp" width="400" height="300" />
 <img src="./w3_w2_1.bmp" width="400" height="300" />
+
+## Experiemnts
+### Batch Update
+<img src="./w1_w2_2.bmp" width="400" height="300" />
+<img src="./w3_w2_2.bmp" width="400" height="300" />
