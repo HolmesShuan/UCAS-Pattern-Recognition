@@ -22,6 +22,7 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 <img src="./w4_w2_2.bmp" width="400" height="300" />
 
 ### Ho-Kashyap
+#### The linearly non-separable problem will converge to e<0, but linearly separable problem will converge to zeor with b>0.
 <img src="./w1_w3_2.bmp" width="400" height="300" />
 <img src="./w1_w3_3.bmp" width="400" height="300" />
 <img src="./w4_w2.bmp" width="400" height="300" />
