@@ -9,21 +9,28 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 3. By using MSE multi-class extension to construct a classifier, learn from samples [0:8] to test samples[9:10]. 
 
 ## Data Distribution
-<img src="./w1_w2.bmp" width="300" height="200" />
-<img src="./w3_w2_1.bmp" width="300" height="200" />
+<img src="./img/w1_w2.bmp" width="300" height="200" />
+<img src="./img/w3_w2_1.bmp" width="300" height="200" />
 
 ## Experiemnts
 ### Batch Update
-<img src="./w1_w2_2.bmp" width="400" height="300" />
-<img src="./w3_w2_2.bmp" width="400" height="300" />
+<img src="./img/w1_w2_2.bmp" width="400" height="300" />
+<img src="./img/w3_w2_2.bmp" width="400" height="300" />
 
 ### Widrow-Hoff
-<img src="./w1_w3.bmp" width="400" height="300" />
-<img src="./w4_w2_2.bmp" width="400" height="300" />
+<img src="./img/w1_w3.bmp" width="400" height="300" />
+<img src="./img/w4_w2_2.bmp" width="400" height="300" />
 
 ### Ho-Kashyap
 #### The linearly non-separable problem will converge to e<0, but linearly separable problem will converge to zeor with b>0.
-<img src="./w1_w3_2.bmp" width="400" height="300" />
-<img src="./w1_w3_3.bmp" width="400" height="300" />
-<img src="./w4_w2.bmp" width="400" height="300" />
-<img src="./w4_w2_1.bmp" width="400" height="300" />
+<img src="./img/w1_w3_2.bmp" width="400" height="300" />
+<img src="./img/w1_w3_3.bmp" width="400" height="300" />
+<img src="./img/w4_w2.bmp" width="400" height="300" />
+<img src="./img/w4_w2_1.bmp" width="400" height="300" />
+
+### Kelser Constructor
+<img src="./img/acc.bmp" width="400" height="300" />
+
+Train Accuracy | Test Accuracy
+------------ | -------------
+88.54 | 87.50
