@@ -4,7 +4,8 @@ The implementations of programming homeworks in PR class of [UCAS](http://www.gu
 ## Content
 1. [Bayesian Decision](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/blob/master/Bayesian%20Decision/)
 2. [Expectation Maximization](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/Expectation-Maximization/)
-3. to be continued
+3. [Linear Classifier](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/Linear%20Classifier)
+4. to be continued
 
 ## Statement
 Welcome to discuss, **do not** plagiarize.
