@@ -9,8 +9,9 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 3. By using MSE multi-class extension to construct a classifier, learn from samples [0:8] to test samples[9:10]. 
 
 ## Data Distribution
-<img src="./w1_w2.bmp" width="400" height="300" />
-<img src="./w3_w2_1.bmp" width="400" height="300" />
+<img src="./w4_w2.bmp" width="300" height="200" />
+<img src="./w1_w2.bmp" width="300" height="200" />
+<img src="./w3_w2_1.bmp" width="300" height="200" />
 
 ## Experiemnts
 ### Batch Update
