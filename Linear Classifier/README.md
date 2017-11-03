@@ -7,3 +7,10 @@ Note that the number of iterations required for convergence.
 2. Implement the Ho-Kashyap algorithm and apply it to the training data from w_1 and w_3.
 Repeat to apply it to the training data from w_2 and w_4. Point out the training errors, and give some analyses.    
 3. By using MSE multi-class extension to construct a classifier, learn from samples [0:8] to test samples[9:10]. 
+
+## Data Distribution
+<center>
+<img src="./w1_w2.bmp" width="400" height="300" />
+
+</center>
+<img src="./w3_w2_1.bmp" width="400" height="300" />
