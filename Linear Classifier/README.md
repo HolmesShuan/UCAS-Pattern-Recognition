@@ -24,5 +24,5 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 ### Ho-Kashyap
 <img src="./w1_w3_2.bmp" width="400" height="300" />
 <img src="./w1_w3_3.bmp" width="400" height="300" />
-<img src="./w4_w2.bmp" width="350" height="270" />
+<img src="./w4_w2.bmp" width="400" height="300" />
 <img src="./w4_w2_1.bmp" width="400" height="300" />
