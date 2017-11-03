@@ -21,3 +21,7 @@ Repeat to apply it to the training data from w_2 and w_4. Point out the training
 ### Widrow-Hoff
 <img src="./w1_w3.bmp" width="400" height="300" />
 <img src="./w4_w2_2.bmp" width="400" height="300" />
+
+### Ho-Kashyap
+<img src="./w1_w3_2.bmp" width="400" height="300" />
+<img src="./w1_w3_3.bmp" width="400" height="300" />
