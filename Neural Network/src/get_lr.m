@@ -22,8 +22,12 @@ switch(lr_type)
         % - poly: the effective learning rate follows a polynomial decay, to be
         % zero by the max_iter. return base_lr (1 - iter/max_iter) ^ (power)
         lr = base_lr *(1 - iter./max_iter) .^ (power);
+    case 'sigmoid'
+        % -sigmoid: base_lr ( 1/(1 + exp(-gamma * (iter - stepsize))))
+        lr = base_lr *( 1./(1 + exp(-gamma * (iter - step_size))))
     otherwise
         % - default : fixed 
+        disp('Default : fixed learning rate');
         lr = base_lr*ones(1,max_iter);
 end
 end
