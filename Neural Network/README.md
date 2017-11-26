@@ -6,7 +6,7 @@ To construct a 3-layer forward neural network (fully connected) for three classi
 4. Training process visualization.
 
 ## Network Structure
-3+3+3+3 or 3+7+7+3 denoted 3 input neurons with 3+3 or 7+7 hidden layers.   
+`3+3+3+3` or `3+7+7+3` denoted 3 input neurons with 3+3 or 7+7 hidden layers.   
 We created one-hot labels for each category, thus the number of output neurons was 3.   
 <img src="./structure.jpg" width="300" height="170" />
 
@@ -20,6 +20,20 @@ For training, 1 iter = 200 iterations; For testing, 1 iter = 100 iterations. We 
 <img src="./img/network_comparsion_test.png" width="340" height="280" />
 
 ## Learning Rate Comparsion
+The base learning rate was `0.00005`. We compared `inv` and `poly` to show the effect of different learning strategies.   
 1. inv: return `base_lr * (1 + gamma * iter) ^ (- power)`
 2. poly: the effective learning rate follows a polynomial decay, to be zero by the max_iter.    
 return `base_lr (1 - iter/max_iter) ^ (power)`
+3. `gamma=0.0001`   
+4. `power=0.75`
+<img src="./img/learning_rate_train.png" width="340" height="280" />
+<img src="./img/learning_rate_test.png" width="340" height="280" />
+
+## BatchSize Comparsion
+With `batchsize=1`, the learning process corresponds to online learning. Our evaluations showed that small smaples cannot generate steady gradient to the local minimum.
+<img src="./img/convergence_train.png" width="340" height="280" />
+<img src="./img/convergence_test.png" width="340" height="280" />
+
+## Accuracy Comparsion
+<img src="./img/acc_train.png" width="340" height="280" />
+<img src="./img/acc_test.png" width="340" height="280" />
