@@ -7,7 +7,7 @@ clear;
 close all;
 %% network init
 parameter_layer_number = 3;
-hidden_nodes_number = [3,3,5,3]; % data_layer layer_1 layer_2 layer_3
+hidden_nodes_number = [3,7,7,3]; % data_layer layer_1 layer_2 layer_3
 assert(length(hidden_nodes_number) == parameter_layer_number+1);
 %% solver init
 max_iter = 5000;
@@ -15,7 +15,7 @@ show_iter = 20;
 test_iter = 100;
 base_lr = 0.0005;
 weight_decay = 0.00005;
-batch_size = 10;
+batch_size = 1;
 lr_type = 'poly';
 lr_list = get_lr(max_iter, base_lr, lr_type);
 train_loss = zeros(max_iter,1);
@@ -76,7 +76,14 @@ for iter = 1:1:max_iter
     W1 = W1 - lr*weights_diff_3 - weight_decay*W1/2;
 end
 disp(['Strategy : ' lr_type]);
-
+%% Figure
+% figure(1);
+% scatter3(train_data(:,1),train_data(:,2),train_data(:,3),'b*');
+%% save
+save(['./test_acc_' lr_type '_batchsize_' num2str(batch_size) '.mat'], 'test_acc');
+save(['./test_loss_' lr_type '_batchsize_' num2str(batch_size) '.mat'], 'test_loss');
+save(['./train_acc_' lr_type '_batchsize_' num2str(batch_size) '.mat'], 'train_acc');
+save(['./train_loss_' lr_type '_batchsize_' num2str(batch_size) '.mat'], 'train_loss');
 
 
 
