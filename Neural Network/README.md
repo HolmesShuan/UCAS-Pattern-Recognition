@@ -31,6 +31,7 @@ return `base_lr (1 - iter/max_iter) ^ (power)`
 
 ## BatchSize Comparsion
 For `batchsize=1`, the learning process corresponds to online learning. Our evaluations showed that small batchsize cannot generate steady gradient to the local minimum. 
+
 <img src="./img/convergence_train.png" width="340" height="280" />
 <img src="./img/convergence_test.png" width="340" height="280" />
 
