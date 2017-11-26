@@ -1,5 +1,5 @@
 %%
-% Info: BP Algorithm
+% Info: BP Algorithm Main
 % Auth: Shuan
 %%
 clc;
