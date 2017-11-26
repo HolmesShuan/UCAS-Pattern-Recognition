@@ -7,8 +7,8 @@ def data_split(x, intervel):
     y = x[0::intervel]
     return y
 
-network_3_3_3_3_dir = './network_3_3_3_3/'
-network_3_7_7_3_dir = './network_3_7_7_3/'
+network_3_3_3_3_dir = './data/network_3_3_3_3/'
+network_3_7_7_3_dir = './data/network_3_7_7_3/'
 
 lr_type = 'inv'
 batchsize = '1'
