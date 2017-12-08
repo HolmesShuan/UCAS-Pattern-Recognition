@@ -6,7 +6,8 @@ The implementations of programming homeworks in PR class of [UCAS](http://www.gu
 2. [Expectation Maximization](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/Expectation-Maximization/)
 3. [Linear Classifier](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/Linear%20Classifier)
 4. [Neural Network](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/Neural%20Network)
-5. to be continued
+5. [Clustering](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/tree/master/K_means)
+6. to be continued
 
 ## Statement
 Welcome to discuss, **do not** plagiarize.
