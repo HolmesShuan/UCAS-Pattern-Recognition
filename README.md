@@ -1,5 +1,5 @@
 # UCAS-Pattern-Recognition
-The programming homeworks of [UCAS](http://www.gucas.ac.cn/) Pattern Recognition class. (Autumn 2017-2018).
+The programming homeworks of [UCAS](http://www.gucas.ac.cn/) Pattern Recognition class. (Autumn 2017-2018)
 
 ## Content
 1. [Bayesian Decision](https://github.com/HolmesShuan/UCAS-Pattern-Recognition/blob/master/Bayesian%20Decision/)
